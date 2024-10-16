@@ -1,14 +1,25 @@
+# beautifulsoup4==4.12.3
+# blinker==1.6.3
+# click==8.1.7
+# dnspython==2.3.0
+# Flask==2.2.5
+# itsdangerous==2.2.0
+# Jinja2==3.1.4
+# MarkupSafe==3.0.1
+# pymongo==4.10.1
+# python-dotenv==1.0.1
+# requests==2.32.3
+# soupsieve==2.6
+# urllib3==2.2.3
+# Werkzeug==3.0.4
 beautifulsoup4==4.12.3
 blinker==1.6.3
-click==8.1.7
-dnspython==2.3.0
-Flask==2.2.5
-itsdangerous==2.2.0
-Jinja2==3.1.4
-MarkupSafe==3.0.1
-pymongo==4.10.1
-python-dotenv==1.0.1
-requests==2.32.3
-soupsieve==2.6
-urllib3==2.2.3
-Werkzeug==3.0.4
+click==7.1.2  # Versi yang kompatibel dengan Python 3.7
+dnspython==1.16.0  # Versi yang kompatibel dengan Python 3.7
+Flask==1.1.4  # Versi yang kompatibel dengan Python 3.7
+itsdangerous==1.1.0  # Versi yang kompatibel dengan Python 3.7
+Jinja2==2.11.3  # Versi yang kompatibel dengan Python 3.7
+MarkupSafe==1.1.1  # Versi yang kompatibel dengan Python 3.7
+pymongo==3.11.4  # Versi yang kompatibel dengan Python 3.7
+python-dotenv==0.17.0  # Versi yang kompatibel dengan Python 3.7
+requests==2.26.0  # Versi yang lebih baru untuk Python 3.7
